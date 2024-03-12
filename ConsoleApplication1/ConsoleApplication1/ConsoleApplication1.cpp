@@ -6,7 +6,7 @@ int main()
 {
 	setlocale(LC_ALL, "RU");
 	int numbers1;
-	cout << "Введите число 1:\n";
+	cout << "Введите число 1:";
 	cin >> numbers1;
 
 	char znak;
