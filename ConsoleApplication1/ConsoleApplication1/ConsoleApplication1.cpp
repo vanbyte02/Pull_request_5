@@ -22,6 +22,18 @@ int main()
 	case '+':
 		cout << endl << numbers1 + numbers2;
 		break;
+	case '-':
+		cout << endl << numbers1 - numbers2;
+		break;
+
+	case '*':
+		cout << endl << numbers1 * numbers2;
+		break;
+
+	case '/':
+		if (numbers2 != 0) {
+			cout << endl << numbers1 / numbers2;
+		}
 
 	
 	}
