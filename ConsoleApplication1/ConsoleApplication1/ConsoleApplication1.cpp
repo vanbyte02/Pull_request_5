@@ -35,7 +35,7 @@ int main()
 			cout << endl << numbers1 / numbers2;
 		}
 		else 
-			cout << endl << "Ты че дебик? На ноль делить нельзя!";
+			
 		break;
 	}
 }
